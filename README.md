@@ -6,9 +6,9 @@ Meditoken Contract: https://sepolia.voyager.online/contract/0x07e0b09cc6209d4211
 
 Incident Contract:https://sepolia.voyager.online/contract/0x063bfab717bd20aa96734d7492d925a66945144a694c399e769765cc48d24754
 
-Deployed App:
+Deployed App: https://starknet-incident-app.vercel.app/
 
-Video Demo:
+Video Demo: https://drive.google.com/drive/folders/1Co9oNNAxNYlxCJIHNNhKW3F1vFsX0ugb?usp=drive_link
 
 ## Features
 
